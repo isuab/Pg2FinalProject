@@ -1,6 +1,4 @@
 pandas 
 numpy
-sklearn
-sklearn.model_selection
-sklearn.linear_model
-statsmodels.api
+sci-kitlearn
+statsmodels
