@@ -18,17 +18,6 @@ clyent==1.2.2
 colorama @ file:///C:/ci_311/colorama_1676422310965/work
 colorcet @ file:///C:/ci_311/colorcet_1676440389947/work
 comm @ file:///C:/ci_311/comm_1678376562840/work
-conda @ file:///C:/b/abs_3eb7ewgq2c/croot/conda_1694545461647/work
-conda-build @ file:///C:/b/abs_8di4gx5nj5/croot/conda-build_1692366837286/work
-conda-content-trust @ file:///C:/b/abs_e3bcpyv7sw/croot/conda-content-trust_1693490654398/work
-conda-libmamba-solver @ file:///C:/b/abs_016p0csqp7/croot/conda-libmamba-solver_1691418958509/work/src
-conda-pack @ file:///tmp/build/80754af9/conda-pack_1611163042455/work
-conda-package-handling @ file:///C:/b/abs_b9wp3lr1gn/croot/conda-package-handling_1691008700066/work
-conda-repo-cli==1.0.75
-conda-token @ file:///Users/paulyim/miniconda3/envs/c3i/conda-bld/conda-token_1662660369760/work
-conda-verify==3.4.2
-conda_index @ file:///C:/b/abs_50towt3zan/croot/conda-index_1695311135992/work
-conda_package_streaming @ file:///C:/b/abs_6c28n38aaj/croot/conda-package-streaming_1690988019210/work
 constantly==15.1.0
 contourpy @ file:///C:/ci_311/contourpy_1676431756017/work
 cookiecutter @ file:///opt/conda/conda-bld/cookiecutter_1649151442564/work
@@ -101,19 +90,6 @@ json5 @ file:///tmp/build/80754af9/json5_1624432770122/work
 jsonpatch @ file:///tmp/build/80754af9/jsonpatch_1615747632069/work
 jsonpointer==2.1
 jsonschema @ file:///C:/b/abs_d40z05b6r1/croot/jsonschema_1678983446576/work
-jupyter @ file:///C:/ci_311/jupyter_1678249952587/work
-jupyter-console @ file:///C:/b/abs_82xaa6i2y4/croot/jupyter_console_1680000189372/work
-jupyter-events @ file:///C:/b/abs_4cak_28ewz/croot/jupyter_events_1684268050893/work
-jupyter-server @ file:///C:/ci_311/jupyter_server_1678228762759/work
-jupyter-ydoc @ file:///C:/b/abs_e7m6nh5lao/croot/jupyter_ydoc_1683747253535/work
-jupyter_client @ file:///C:/ci_311/jupyter_client_1676424009414/work
-jupyter_core @ file:///C:/b/abs_9d0ttho3bs/croot/jupyter_core_1679906581955/work
-jupyter_server_fileid @ file:///C:/b/abs_f1yjnmiq_6/croot/jupyter_server_fileid_1684273602142/work
-jupyter_server_ydoc @ file:///C:/b/abs_8ai39bligw/croot/jupyter_server_ydoc_1686767445888/work
-jupyterlab @ file:///C:/b/abs_c1msr8zz3y/croot/jupyterlab_1686179674844/work
-jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
-jupyterlab-widgets @ file:///C:/b/abs_38ad427jkz/croot/jupyterlab_widgets_1679055289211/work
-jupyterlab_server @ file:///C:/b/abs_e0qqsihjvl/croot/jupyterlab_server_1680792526136/work
 kaleido @ file:///C:/b/abs_60smvjz1os/croot/python-kaleido_1689927138239/work
 keyring @ file:///C:/b/abs_dbjc7g0dh2/croot/keyring_1678999228878/work
 kiwisolver @ file:///C:/ci_311/kiwisolver_1676431979301/work
@@ -160,7 +136,6 @@ notebook @ file:///C:/b/abs_e2qn6c85jb/croot/notebook_1690985290943/work
 notebook_shim @ file:///C:/ci_311/notebook-shim_1678144850856/work
 numba @ file:///C:/b/abs_00f2z7znbq/croot/numba_1690878309825/work
 numexpr @ file:///C:/b/abs_afm0oewmmt/croot/numexpr_1683221839116/work
-numpy @ file:///C:/Users/dev-admin/mkl/numpy_and_numpy_base_1682982345978/work
 numpydoc @ file:///C:/ci_311/numpydoc_1676453412027/work
 openpyxl==3.0.10
 packaging @ file:///C:/b/abs_28t5mcoltc/croot/packaging_1693575224052/work
